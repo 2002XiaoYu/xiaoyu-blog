@@ -1,0 +1,37 @@
+[
+  {
+    "type": "file",
+    "name": "1_安装-介绍",
+    "label": "1_安装-介绍"
+  },
+  {
+    "type": "file",
+    "name": "2_初-始化仓库Store",
+    "label": "2_初-始化仓库Store"
+  },
+  {
+    "type": "file",
+    "name": "3_state",
+    "label": "3_state"
+  },
+  {
+    "type": "file",
+    "name": "4_解构store-源码解析",
+    "label": "4_解构store-源码解析"
+  },
+  {
+    "type": "file",
+    "name": "5_Actions-getters",
+    "label": "5_Actions-getters"
+  },
+  {
+    "type": "file",
+    "name": "6_实例API",
+    "label": "6_实例API"
+  },
+  {
+    "type": "file",
+    "name": "7_pinia持久化插件",
+    "label": "7_pinia持久化插件"
+  }
+]

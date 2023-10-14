@@ -1,0 +1,1 @@
+# 25_TS进阶用法Record & Readonly

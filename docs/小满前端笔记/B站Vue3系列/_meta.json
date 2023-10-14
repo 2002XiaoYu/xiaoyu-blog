@@ -1,0 +1,297 @@
+[
+  {
+    "type": "file",
+    "name": "1_Vue3概述-梦开始的地方",
+    "label": "1_Vue3概述-梦开始的地方"
+  },
+  {
+    "type": "file",
+    "name": "2_环境搭建-底层原理",
+    "label": "2_环境搭建-底层原理"
+  },
+  {
+    "type": "file",
+    "name": "3_认识目录&SFC&插件",
+    "label": "3_认识目录&SFC&插件"
+  },
+  {
+    "type": "file",
+    "name": "4_模板语法 & vue指令",
+    "label": "4_模板语法 & vue指令"
+  },
+  {
+    "type": "file",
+    "name": "5_虚拟dom和diff算法",
+    "label": "5_虚拟dom和diff算法"
+  },
+  {
+    "type": "file",
+    "name": "6_Ref 全家桶 & 源码解析",
+    "label": "6_Ref 全家桶 & 源码解析"
+  },
+  {
+    "type": "file",
+    "name": "7_Reactive全家桶 & 源码讲解",
+    "label": "7_Reactive全家桶 & 源码讲解"
+  },
+  {
+    "type": "file",
+    "name": "8_ toRef，toRefs，toRaw & 源码解析",
+    "label": "8_ toRef，toRefs，toRaw & 源码解析"
+  },
+  {
+    "type": "file",
+    "name": "9_computed计算属性-精讲",
+    "label": "9_computed计算属性-精讲"
+  },
+  {
+    "type": "file",
+    "name": "10_watch侦听器 & 源码讲解",
+    "label": "10_watch侦听器 & 源码讲解"
+  },
+  {
+    "type": "file",
+    "name": "11_watchEffect高级侦听器",
+    "label": "11_watchEffect高级侦听器"
+  },
+  {
+    "type": "file",
+    "name": "12_生命周期 & 源码讲解",
+    "label": "12_生命周期 & 源码讲解"
+  },
+  {
+    "type": "file",
+    "name": "13_BEM架构 + layout布局",
+    "label": "13_BEM架构 + layout布局"
+  },
+  {
+    "type": "file",
+    "name": "14_父子组件传参",
+    "label": "14_父子组件传参"
+  },
+  {
+    "type": "file",
+    "name": "15_全局组件，局部组件，递归组件",
+    "label": "15_全局组件，局部组件，递归组件"
+  },
+  {
+    "type": "file",
+    "name": "16_动态组件 & 源码解析",
+    "label": "16_动态组件 & 源码解析"
+  },
+  {
+    "type": "file",
+    "name": "17_插槽全家桶",
+    "label": "17_插槽全家桶"
+  },
+  {
+    "type": "file",
+    "name": "18_异步组件&代码分包&suspense",
+    "label": "18_异步组件&代码分包&suspense"
+  },
+  {
+    "type": "file",
+    "name": "19_Teleport传送组件",
+    "label": "19_Teleport传送组件"
+  },
+  {
+    "type": "file",
+    "name": "20_keep-alive缓存组件 & 源码解析",
+    "label": "20_keep-alive缓存组件 & 源码解析"
+  },
+  {
+    "type": "file",
+    "name": "21_transition组件基础用法",
+    "label": "21_transition组件基础用法"
+  },
+  {
+    "type": "file",
+    "name": "21-3_transition生命周期和GSAP",
+    "label": "21-3_transition生命周期和GSAP"
+  },
+  {
+    "type": "file",
+    "name": "21-4_transition生命周期和GSAP",
+    "label": "21-4_transition生命周期和GSAP"
+  },
+  {
+    "type": "file",
+    "name": "22_ transitionGroup",
+    "label": "22_ transitionGroup"
+  },
+  {
+    "type": "file",
+    "name": "22-2_平面过度动画酷炫",
+    "label": "22-2_平面过度动画酷炫"
+  },
+  {
+    "type": "file",
+    "name": "22-3_状态过度",
+    "label": "22-3_状态过度"
+  },
+  {
+    "type": "file",
+    "name": "23_依赖注入provideinject & 源码解析",
+    "label": "23_依赖注入provideinject & 源码解析"
+  },
+  {
+    "type": "file",
+    "name": "24_兄弟组件传参&Bus",
+    "label": "24_兄弟组件传参&Bus"
+  },
+  {
+    "type": "file",
+    "name": "24-2_Mitt",
+    "label": "24-2_Mitt"
+  },
+  {
+    "type": "file",
+    "name": "25_tsx & vite插件",
+    "label": "25_tsx & vite插件"
+  },
+  {
+    "type": "file",
+    "name": "26_组件( v-model & 源码解析",
+    "label": "26_组件( v-model & 源码解析"
+  },
+  {
+    "type": "file",
+    "name": "27_定义指令",
+    "label": "27_定义指令"
+  },
+  {
+    "type": "file",
+    "name": "27-1_指令简写 鉴权",
+    "label": "27-1_指令简写 鉴权"
+  },
+  {
+    "type": "file",
+    "name": "27-2_指令拖拽案例",
+    "label": "27-2_指令拖拽案例"
+  },
+  {
+    "type": "file",
+    "name": "27-3_图片懒加载",
+    "label": "27-3_图片懒加载"
+  },
+  {
+    "type": "file",
+    "name": "28_自定义Hooks",
+    "label": "28_自定义Hooks"
+  },
+  {
+    "type": "file",
+    "name": "29_全局函数和变量",
+    "label": "29_全局函数和变量"
+  },
+  {
+    "type": "file",
+    "name": "30_自定义Vue插件 & 源码讲解",
+    "label": "30_自定义Vue插件 & 源码讲解"
+  },
+  {
+    "type": "file",
+    "name": "31_UI库ElementPlus等",
+    "label": "31_UI库ElementPlus等"
+  },
+  {
+    "type": "file",
+    "name": "31-2_transition结合animate.css",
+    "label": "31-2_transition结合animate.css"
+  },
+  {
+    "type": "file",
+    "name": "32_样式穿透deep() & 源码解析",
+    "label": "32_样式穿透deep() & 源码解析"
+  },
+  {
+    "type": "file",
+    "name": "33_CSS 完整新特性",
+    "label": "33_CSS 完整新特性"
+  },
+  {
+    "type": "file",
+    "name": "34_Vue3集成tailWindCss",
+    "label": "34_Vue3集成tailWindCss"
+  },
+  {
+    "type": "file",
+    "name": "35_Event loop",
+    "label": "35_Event loop"
+  },
+  {
+    "type": "file",
+    "name": "35-2_nextTick & 源码解析",
+    "label": "35-2_nextTick & 源码解析"
+  },
+  {
+    "type": "file",
+    "name": "36_上  移动端ionic",
+    "label": "36_上  移动端ionic"
+  },
+  {
+    "type": "file",
+    "name": "36_下 H5 适配",
+    "label": "36_下 H5 适配"
+  },
+  {
+    "type": "file",
+    "name": "37_unoCss原子化",
+    "label": "37_unoCss原子化"
+  },
+  {
+    "type": "file",
+    "name": "38_函数式编程,h函数",
+    "label": "38_函数式编程,h函数"
+  },
+  {
+    "type": "file",
+    "name": "39_electron桌面程序",
+    "label": "39_electron桌面程序"
+  },
+  {
+    "type": "file",
+    "name": "40_Vue3.3编译宏",
+    "label": "40_Vue3.3编译宏"
+  },
+  {
+    "type": "file",
+    "name": "42_环境变量",
+    "label": "42_环境变量"
+  },
+  {
+    "type": "file",
+    "name": "43_webpack 从0到1 构建vue3",
+    "label": "43_webpack 从0到1 构建vue3"
+  },
+  {
+    "type": "file",
+    "name": "44_Vue3高级性能优化",
+    "label": "44_Vue3高级性能优化"
+  },
+  {
+    "type": "file",
+    "name": "45_web Components",
+    "label": "45_web Components"
+  },
+  {
+    "type": "file",
+    "name": "46_proxy跨域",
+    "label": "46_proxy跨域"
+  },
+  {
+    "type": "file",
+    "name": "进阶 响应式原理源码实现",
+    "label": "进阶 响应式原理源码实现"
+  },
+  {
+    "type": "file",
+    "name": "小满Vue3（彩蛋）",
+    "label": "小满Vue3（彩蛋）"
+  },
+  {
+    "type": "file",
+    "name": "自定义Hooks  综合案例",
+    "label": "自定义Hooks  综合案例"
+  }
+]

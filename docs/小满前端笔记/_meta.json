@@ -1,0 +1,45 @@
+[
+  {
+    "type": "file",
+    "name": "小满面试题答案",
+    "label": "小满面试题答案"
+  },
+  {
+    "type": "file",
+    "name": "京东开发文档流程",
+    "label": "京东开发文档流程"
+  },
+  {
+    "type": "file",
+    "name": "前端常用英语汇总",
+    "label": "前端常用英语汇总"
+  },
+  {
+    "type": "dir",
+    "name": "B站Vue3系列",
+    "label": "B站Vue3系列",
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "B站TypeScript系列",
+    "label": "B站TypeScript系列",
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "B站Router系列",
+    "label": "B站Router系列",
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "B站Pinia系列",
+    "label": "B站Pinia系列",
+    "collapsible": true,
+    "collapsed": true
+  }
+]

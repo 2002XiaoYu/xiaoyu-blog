@@ -1,0 +1,1 @@
+# 24_TS进阶用法Partial & Pick
