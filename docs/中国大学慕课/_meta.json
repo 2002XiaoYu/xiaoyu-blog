@@ -1,0 +1,16 @@
+[
+  {
+    "type": "dir",
+    "name": "C语言(翁恺)",
+    "label": "C语言(翁恺)",
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "数据结构(陈越)",
+    "label": "数据结构(陈越)",
+    "collapsible": true,
+    "collapsed": true
+  }
+]

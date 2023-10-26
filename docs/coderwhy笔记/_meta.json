@@ -1,0 +1,44 @@
+[
+  {
+    "type": "dir",
+    "name": "JavaScript基础",
+    "label": "JavaScript基础",
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "JavaScript高级",
+    "label": "JavaScript高级",
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "Node基础",
+    "label": "Node基础",
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "React全家桶",
+    "label": "React全家桶",
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "TypeScript开发实战",
+    "label": "TypeScript开发实战",
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "Vue3全家桶",
+    "label": "Vue3全家桶",
+    "collapsible": true,
+    "collapsed": true
+  }
+]

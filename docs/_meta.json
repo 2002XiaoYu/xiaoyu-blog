@@ -10,14 +10,14 @@
     "activeMatch": "/hello/"
   },
   {
-    "text": "C语言",
-    "link": "/C语言/",
-    "activeMatch": "/C语言/"
+    "text": "中国大学慕课",
+    "link": "/中国大学慕课/",
+    "activeMatch": "/中国大学慕课/"
   },
   {
-    "text": "数据结构",
-    "link": "/数据结构/",
-    "activeMatch": "/数据结构/"
+    "text": "掘金小册",
+    "link": "/掘金小册/",
+    "activeMatch": "/掘金小册/"
   },
   {
     "text": "英语笔记",
