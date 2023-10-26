@@ -15,10 +15,10 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', mode: 'link', content: 'https://github.com/2002XiaoYu' },
     ],
-    outlineTitle: '文章目录',
+    outlineTitle: '章节索引',
     lastUpdated: true,
-    lastUpdatedText: '最后更新的文章',
-    prevPageText: '上一篇',
-    nextPageText: '下一篇',
-  },
+    lastUpdatedText: '修订时',
+    prevPageText: '静夜思前章已过，独坐思乡情更多',
+    nextPageText: '回首往事下篇来，梦里花开不觉哀',
+  }
 });
