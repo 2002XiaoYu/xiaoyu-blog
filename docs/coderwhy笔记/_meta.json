@@ -15,15 +15,8 @@
   },
   {
     "type": "dir",
-    "name": "Node基础",
-    "label": "Node基础",
-    "collapsible": true,
-    "collapsed": true
-  },
-  {
-    "type": "dir",
-    "name": "React全家桶",
-    "label": "React全家桶",
+    "name": "Node、Webpack、Git基础",
+    "label": "Node、Webpack、Git基础",
     "collapsible": true,
     "collapsed": true
   },
@@ -38,6 +31,13 @@
     "type": "dir",
     "name": "Vue3全家桶",
     "label": "Vue3全家桶",
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "React全家桶",
+    "label": "React全家桶",
     "collapsible": true,
     "collapsed": true
   }
