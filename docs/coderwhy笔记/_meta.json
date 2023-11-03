@@ -4,7 +4,7 @@
     "name": "JavaScript基础",
     "label": "JavaScript基础",
     "collapsible": true,
-    "collapsed": true
+    "collapsed": false
   },
   {
     "type": "dir",

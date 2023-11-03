@@ -19,7 +19,7 @@
     "name": "B站Vue3系列",
     "label": "B站Vue3系列",
     "collapsible": true,
-    "collapsed": true
+    "collapsed": false
   },
   {
     "type": "dir",
