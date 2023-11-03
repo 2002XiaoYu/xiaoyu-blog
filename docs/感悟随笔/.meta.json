@@ -1,0 +1,28 @@
+[
+  {
+    "type": "file",
+    "name": "前言",
+    "label": "前言"
+  },
+  {
+    "type": "dir",
+    "name": "看待世界的角度",
+    "label": "看待世界的角度",
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "人生总结(季度、年度)",
+    "label": "人生总结(季度、年度)",
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "阅读书籍体会",
+    "label": "阅读书籍体会",
+    "collapsible": true,
+    "collapsed": true
+  }
+]
