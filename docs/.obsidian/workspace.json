@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "73a0def5bd41c42d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac339bacd7c3ba94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca7e148071612aa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "小满前端笔记/B站Vue3系列/3_认识目录&SFC&插件.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d12efb86f48054e",
+    "type": "split",
+    "children": [
+      {
+        "id": "96df3c25db135754",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1cd6978223ff116",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c1870c7f055034e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad164a269340203f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d75edbbf28257885",
+    "type": "split",
+    "children": [
+      {
+        "id": "c993bc0b51456e16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3efad651d71dc739",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "小满前端笔记/B站Vue3系列/3_认识目录&SFC&插件.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73b2de4a75875142",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "小满前端笔记/B站Vue3系列/3_认识目录&SFC&插件.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a0b2e3f5c55b97c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "16892868d04feed0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "小满前端笔记/B站Vue3系列/3_认识目录&SFC&插件.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ca7e148071612aa8",
+  "lastOpenFiles": []
+}
