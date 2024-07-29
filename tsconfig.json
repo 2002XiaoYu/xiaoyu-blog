@@ -1,6 +1,11 @@
 {
   "compilerOptions": {
-    "jsx": "react-jsx",
-    "esModuleInterop": true
+    "target": "es6",
+    "module": "commonjs",
+    "jsx": "react-jsx", // 或 "react"
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
   }
 }
