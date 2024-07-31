@@ -8,7 +8,7 @@ const CenteredContent: React.FC = () => {
     alignItems: 'center',
     width: '100%',
     height: '50px',
-    backgroundColor: '#f0f0f0', // 浅灰色背景
+    backgroundColor: '#ffffff', // 白色
   };
 
   const pStyle: React.CSSProperties = {

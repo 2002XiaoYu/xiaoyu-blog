@@ -3,7 +3,7 @@ pageType: home
 
 hero:
   name: Code learning
-  text: 小余的学习库
+  text: 小余知识库
   tagline: Code learning tagline
   actions:
     - theme: brand
